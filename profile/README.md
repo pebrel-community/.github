@@ -1,6 +1,6 @@
-# Pebrel Community
+# Pebrel Community · 创意工坊
 
-A home for community-created [Pebrel](https://github.com/Kuddev/pebrel) themes,
+A creative workshop for community-created [Pebrel](https://github.com/Kuddev/pebrel) themes,
 plugins, and shared resources.
 
 | Repository | Purpose |
@@ -12,13 +12,16 @@ Creators retain ownership of their work. Each submission identifies its author,
 source, and license. Contributions are welcome through pull requests; a GitHub
 organization membership is not required.
 
+Start by showing your work in [theme discussions](https://github.com/pebrel-community/themes/discussions/categories/show-and-tell)
+or [plugin discussions](https://github.com/pebrel-community/plugins/discussions/categories/show-and-tell).
+
 These repositories are community directories. Listing a work does not imply
 that every Pebrel version supports it. Theme ZIP installation, animated media,
 and shader capabilities are being developed in the main application.
 
 ## 中文
 
-这里是 Pebrel 专属社区，欢迎分享主题、插件和配套资源。
+这里是 Pebrel 专属创意工坊，欢迎分享主题、插件和配套资源。
 
 - **themes**：主题作品、预览、作者署名和版本化 ZIP 分享。
 - **plugins**：插件作品、源码地址和兼容信息。
