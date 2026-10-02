@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Pebrel application / 主程序
+    url: https://github.com/Kuddev/pebrel/issues
+    about: Report application bugs in the main repository / 主程序问题请提交到主仓库。
+  - name: Contribution policy / 贡献政策
+    url: https://github.com/Kuddev/pebrel/blob/main/CONTRIBUTING.md#commercial-promotion-policy
+    about: Source attribution and commercial-promotion boundaries / 来源署名与商业推广边界。
